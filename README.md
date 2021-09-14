@@ -1,3 +1,9 @@
+### UPDATE 仅提供打包后应用，不再提供源码
+# TThe original intention of developing this application
+1.POOL
+2.For convenience
+3.KEEP LEARNING
+
 # IDEA Activate Tool
 
 <img src="https://github.com/ethwillupto10000/idea-active-tool/blob/master/preview.png?raw=true">
