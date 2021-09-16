@@ -1,8 +1,12 @@
 ### UPDATE 仅提供打包后应用，不再提供源码
 # TThe original intention of developing this application
-1.POOL
-2.For convenience
-3.KEEP LEARNING
+1.POOL\n
+2.For convenience\n
+3.KEEP LEARNING\n
+```bash
+贫穷不是侵权的借口，请大家尽最大可能支持正版。
+本工具仅供学习交流之用。
+```
 
 # IDEA Activate Tool
 
